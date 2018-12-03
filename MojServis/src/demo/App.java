@@ -36,25 +36,6 @@ public class App {
 		mirko.ubaciUListu(er3);
 		mirko.ubaciUListu(er4);
 
-		// System.out.println("Promet: ");
-		//mirko.zarada(); // posle ubacivanja u listu
-		
-		//new Naplata().zarada();  // ne static metode 
-		//new Naplata().placanjeServisa();
-		
-
-//		for(int i = 0; i < Serviser.getListaRacunara().size(); i++) {
-//			System.out.println(Serviser.getListaRacunara().get(i).getRacunarNaServisu().informacijeORacunaru());
-//		}
-
-		//mirko.promenaStatusaUPreuzet(); //
-		//mirko.prikazInformacijaZaSveRacunare();
-		
-		
-		System.out.println("");
-		System.out.println("***unos preko komandi***");
-		System.out.println("");
-		
 		boolean prikaz = true;
 		
 		do {

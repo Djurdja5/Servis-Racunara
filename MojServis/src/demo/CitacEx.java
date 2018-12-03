@@ -11,7 +11,7 @@ import serviser.Status;
 public class CitacEx {
 
 	// CITAC SA PRIMENOM EXCEPTIONA 
-	public static LapTop unosLapTopa () {
+	private static LapTop unosLapTopa () {  // private
 		Scanner unos = new Scanner(System.in);
 		
 		System.out.println("Unesite serijski broj: ");

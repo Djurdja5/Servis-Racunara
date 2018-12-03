@@ -1,0 +1,17 @@
+-INFORMACIJE O EVIDENCIJI-
+Evidencioni broj: 3b
+Vasnik racunara: Nemanja
+Racunar je u statusu: PRIJEM
+Datum prijema racunara: 2018-12-03
+Datum zavrsetka racunara: 2018-12-12
+ 
+-INFORMACIJE O NAPLATI-
+Vas racun iznosi: 3000
+Vas racun je:  nije placen 
+
+-INFORMACIJE O DESKTOPU-
+Serijski broj: 9999
+brzina procesora: 1500
+marka racunara: Toshida
+tip kucista: ATX
+

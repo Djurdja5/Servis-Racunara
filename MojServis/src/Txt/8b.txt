@@ -1,0 +1,17 @@
+-INFORMACIJE O EVIDENCIJI-
+Evidencioni broj: 8b
+Vasnik racunara: Djurdja
+Racunar je u statusu: PRIJEM
+Datum prijema racunara: 2018-12-03
+Datum zavrsetka racunara: 2018-12-10
+ 
+-INFORMACIJE O NAPLATI-
+Vas racun iznosi: 1000
+Vas racun je:  nije placen 
+
+-INFORMACIJE O LAPTOPU-
+Serijski broj: 1111
+brzina procesora: 1500
+marka racunara: Dell
+velicina displeja19
+

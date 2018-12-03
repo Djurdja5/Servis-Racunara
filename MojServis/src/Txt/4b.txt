@@ -1,0 +1,17 @@
+-INFORMACIJE O EVIDENCIJI-
+Evidencioni broj: 4b
+Vasnik racunara: Uros
+Racunar je u statusu: PRIPREMA
+Datum prijema racunara: 2018-12-03
+Datum zavrsetka racunara: 2018-12-11
+ 
+-INFORMACIJE O LAPTOPU-
+Serijski broj: 8888
+brzina procesora: 1800
+marka racunara: Dell
+velicina displeja18
+
+-INFORMACIJE O NAPLATI-
+Vas racun iznosi: 0
+Vas racun je:  nije placen 
+

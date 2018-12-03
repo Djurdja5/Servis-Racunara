@@ -7,7 +7,6 @@ import racunar.LapTop;
 import racunar.Racunar;
 import racunar.TipKucista;
 import serviser.EvidencijaRacunara;
-import serviser.Serviser;
 import serviser.Status;
 
 public class Odluka1 {

@@ -11,8 +11,8 @@ public class LapTop extends Racunar{
 	
 	@Override
 	public String informacijeORacunaru() {
-		return "__Informacije o LapTopu__" + "\nSerijski broj: " + getSerijskiBroj() + "\nbrzina procesora: " + getBrzinaProcesora() 
-		+ "\nmarka racunara: " + getMarkaRacunar() + "\nvelicina displeja" + getVelicinaDispleja() + "\n";
+		return "-INFORMACIJE O LAPTOPU-" + "\r\nSerijski broj: " + getSerijskiBroj() + "\r\nbrzina procesora: " + getBrzinaProcesora() 
+		+ "\r\nmarka racunara: " + getMarkaRacunar() + "\r\nvelicina displeja" + getVelicinaDispleja() + "\r\n";
 	}
 	
 //get//set

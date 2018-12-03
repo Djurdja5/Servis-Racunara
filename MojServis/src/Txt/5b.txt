@@ -1,0 +1,17 @@
+-INFORMACIJE O EVIDENCIJI-
+Evidencioni broj: 5b
+Vasnik racunara: Isidora
+Racunar je u statusu: PRIJEM
+Datum prijema racunara: 2018-12-03
+Datum zavrsetka racunara: 2018-12-06
+ 
+-INFORMACIJE O NAPLATI-
+Vas racun iznosi: 2000
+Vas racun je:  placen 
+
+-INFORMACIJE O LAPTOPU-
+Serijski broj: 2222
+brzina procesora: 2000
+marka racunara: Dell
+velicina displeja18
+

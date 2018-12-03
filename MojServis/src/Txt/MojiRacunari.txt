@@ -1,0 +1,68 @@
+-INFORMACIJE O EVIDENCIJI-
+Evidencioni broj: 5b
+Vasnik racunara: Isidora
+Racunar je u statusu: PRIJEM
+Datum prijema racunara: 2018-12-03
+Datum zavrsetka racunara: 2018-12-06
+ 
+-INFORMACIJE O NAPLATI-
+Vas racun iznosi: 2000
+Vas racun je:  placen 
+
+-INFORMACIJE O LAPTOPU-
+Serijski broj: 2222
+brzina procesora: 2000
+marka racunara: Dell
+velicina displeja18
+
+-INFORMACIJE O EVIDENCIJI-
+Evidencioni broj: 3b
+Vasnik racunara: Nemanja
+Racunar je u statusu: PRIJEM
+Datum prijema racunara: 2018-12-03
+Datum zavrsetka racunara: 2018-12-12
+ 
+-INFORMACIJE O NAPLATI-
+Vas racun iznosi: 3000
+Vas racun je:  nije placen 
+
+-INFORMACIJE O DESKTOPU-
+Serijski broj: 9999
+brzina procesora: 1500
+marka racunara: Toshida
+tip kucista: ATX
+
+-INFORMACIJE O EVIDENCIJI-
+Evidencioni broj: 8b
+Vasnik racunara: Djurdja
+Racunar je u statusu: PRIJEM
+Datum prijema racunara: 2018-12-03
+Datum zavrsetka racunara: 2018-12-10
+ 
+-INFORMACIJE O NAPLATI-
+Vas racun iznosi: 1000
+Vas racun je:  nije placen 
+
+-INFORMACIJE O LAPTOPU-
+Serijski broj: 1111
+brzina procesora: 1500
+marka racunara: Dell
+velicina displeja19
+
+-INFORMACIJE O EVIDENCIJI-
+Evidencioni broj: 9b
+Vasnik racunara: Janko
+Racunar je u statusu: PRIJEM
+Datum prijema racunara: 2018-12-03
+Datum zavrsetka racunara: 2018-12-06
+ 
+-INFORMACIJE O NAPLATI-
+Vas racun iznosi: 5000
+Vas racun je:  placen 
+
+-INFORMACIJE O DESKTOPU-
+Serijski broj: 8888
+brzina procesora: 1800
+marka racunara: Siemens
+tip kucista: MICRO_ATX
+

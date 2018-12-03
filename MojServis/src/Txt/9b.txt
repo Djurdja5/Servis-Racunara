@@ -1,0 +1,17 @@
+-INFORMACIJE O EVIDENCIJI-
+Evidencioni broj: 9b
+Vasnik racunara: Janko
+Racunar je u statusu: PRIJEM
+Datum prijema racunara: 2018-12-03
+Datum zavrsetka racunara: 2018-12-06
+ 
+-INFORMACIJE O NAPLATI-
+Vas racun iznosi: 5000
+Vas racun je:  placen 
+
+-INFORMACIJE O DESKTOPU-
+Serijski broj: 8888
+brzina procesora: 1800
+marka racunara: Siemens
+tip kucista: MICRO_ATX
+

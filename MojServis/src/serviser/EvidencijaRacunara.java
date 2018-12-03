@@ -38,8 +38,8 @@ public class EvidencijaRacunara {
 
 
 	public String informacijeOEvidenciji () {
-		return "Evidencioni broj: " + getEvidencioniBroj() + "\nVasnik racunara: " + getVlasnik() + "\nRacunar je u statusu: " + getStatusServisa()
-		+ "\nDatum prijema racunara: " + getDatumPrijema() + "\nDatum zavrsetka racunara: " + getDatumZavrsetka() + "\n ";
+		return "-INFORMACIJE O EVIDENCIJI-"+ "\r\nEvidencioni broj: " + getEvidencioniBroj() + "\r\nVasnik racunara: " + getVlasnik() + "\r\nRacunar je u statusu: " + getStatusServisa()
+		+ "\r\nDatum prijema racunara: " + getDatumPrijema() + "\r\nDatum zavrsetka racunara: " + getDatumZavrsetka() + "\r\n ";
 	}
 	
 //get//set	

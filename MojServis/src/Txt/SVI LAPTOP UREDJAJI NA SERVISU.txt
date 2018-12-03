@@ -1,0 +1,34 @@
+-INFORMACIJE O EVIDENCIJI-
+Evidencioni broj: 5b
+Vasnik racunara: Isidora
+Racunar je u statusu: PRIJEM
+Datum prijema racunara: 2018-12-03
+Datum zavrsetka racunara: 2018-12-06
+ 
+-INFORMACIJE O LAPTOPU-
+Serijski broj: 2222
+brzina procesora: 2000
+marka racunara: Dell
+velicina displeja18
+
+-INFORMACIJE O NAPLATI-
+Vas racun iznosi: 2000
+Vas racun je:  placen 
+
+-INFORMACIJE O EVIDENCIJI-
+Evidencioni broj: 8b
+Vasnik racunara: Djurdja
+Racunar je u statusu: PRIJEM
+Datum prijema racunara: 2018-12-03
+Datum zavrsetka racunara: 2018-12-10
+ 
+-INFORMACIJE O LAPTOPU-
+Serijski broj: 1111
+brzina procesora: 1500
+marka racunara: Dell
+velicina displeja19
+
+-INFORMACIJE O NAPLATI-
+Vas racun iznosi: 1000
+Vas racun je:  nije placen 
+

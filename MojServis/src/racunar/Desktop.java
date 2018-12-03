@@ -11,8 +11,8 @@ public class Desktop extends Racunar{
 
 	@Override
 	public String informacijeORacunaru() {
-		return "__Informacije o Desktopu__" + "\nSerijski broj: " + getSerijskiBroj() + "\nbrzina procesora: " + getBrzinaProcesora() + 
-				"\nmarka racunara: " + getMarkaRacunar() + "\ntip kucista: " + getTipKucista() + "\n";
+		return "-INFORMACIJE O DESKTOPU-" + "\r\nSerijski broj: " + getSerijskiBroj() + "\r\nbrzina procesora: " + getBrzinaProcesora() + 
+				"\r\nmarka racunara: " + getMarkaRacunar() + "\r\ntip kucista: " + getTipKucista() + "\r\n";
 	}
 		
 //get//set

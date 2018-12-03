@@ -17,8 +17,8 @@ public class ProveraExceptiona {
 		
 		do {
 			try {
-				System.out.println(tekts1);     //*** potrebno posto je ulazni parametar String da bi u Citacu bilo manje linija
-				String status = unos2.nextLine().toUpperCase();      // ceo kod iz citaca se prepisuje
+				System.out.println(tekts1);   
+				String status = unos2.nextLine().toUpperCase();  
 				s = Status.valueOf(status);
 				uslov2 = false;
 		

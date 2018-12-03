@@ -151,11 +151,6 @@ public class Serviser {
 			}
 		}	
 	
-	
-	
-	public void lapTopRacunariNaServisu () {
-		
-	}
 		
 //get//set
 	
